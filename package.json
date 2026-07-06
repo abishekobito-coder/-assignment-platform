@@ -1,0 +1,15 @@
+{
+  "name": "it-root",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npm start --prefix assignment-platform"
+  },
+  "dependencies": {
+    "cacache": "^20.0.3",
+    "express": "^5.2.1",
+    "make-fetch-happen": "^15.0.3",
+    "node-gyp": "^12.2.0",
+    "sqlite3": "^5.0.2",
+    "tar": "^7.5.7"
+  }
+}
